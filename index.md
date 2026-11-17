@@ -1,3 +1,3 @@
 # Christopher Yera's Portfolio
 
-Welcome! Work in progress.
+Welcome! Here you'll find my work for Computing in Context at Columbia SIPA.

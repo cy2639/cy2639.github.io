@@ -7,3 +7,5 @@ Lab*.ipynb
 lab*.ipynb
 # MyST build outputs
 _build
+# large data files
+pppub26.csv
